@@ -1,0 +1,35 @@
+_repo: Sesame-et-les-lys_64213
+_version: 0.0.1
+contributor:
+  contributor: &id001
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marcel_Proust
+    - https://fr.wikipedia.org/wiki/Marcel_Proust
+  translator: *id001
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: https://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2021-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64213'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sésame et les lys:'
+url: http://www.gutenberg.org/ebooks/64213
