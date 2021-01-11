@@ -1,5 +1,5 @@
 _repo: Sesame-et-les-lys_64213
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor: &id001
     agent_name: Proust, Marcel
@@ -11,6 +11,9 @@ contributor:
     - https://en.wikipedia.org/wiki/Marcel_Proust
     - https://fr.wikipedia.org/wiki/Marcel_Proust
   translator: *id001
+covers:
+- cover_type: archival
+  image_path: 64213-h/images/sesame_cover.jpg
 creator:
   author:
     agent_name: Ruskin, John
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: https://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64213#Sesame-et-les-lys
 gutenberg_issued: '2021-01-04'
 gutenberg_type: Text
 identifiers:
